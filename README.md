@@ -4,7 +4,7 @@
 - 🌱 Estudando Java, Javascript, HTML, CSS, e alguns frameworks
 - 😄 Pronouns: ele/dele
 
-<div>
+
  <div>
    <a href="https://github.com/aldairsoares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?    username=aldairsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@
   <img align="center" alt="Aldair-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aldair-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
  </div>
-</div>
+
 ##
   
 <div> 
