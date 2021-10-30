@@ -4,7 +4,7 @@
 - 🌱 Estudando Java, Javascript, HTML, CSS, e alguns frameworks
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div>
   <a href="https://github.com/aldairsoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldairsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldairsoares&layout=compact&langs_count=7&theme=dracula"/>
