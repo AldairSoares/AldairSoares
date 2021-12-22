@@ -1,6 +1,6 @@
 ### Olá! Eu sou Aldair Soares!
 
-- 🔭 Desenvolvedor Java Jr em formação pela Generation
+- 🔭 Desenvolvedor Java Jr.
 - 🌱 Estudando Java, Javascript, HTML, CSS, e alguns frameworks
 - 😄 Pronouns: ele/dele
 
