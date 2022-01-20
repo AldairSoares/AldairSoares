@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Java Jr.
 - 🌱 Estudando Java, Javascript, HTML, CSS, e alguns frameworks
 - 😄 Pronouns: ele/dele
-
+- Conheça o meu mais recente projeto: A MANGUETECH:  https://manguetech.netlify.app/
 
  <div align="space-between">
   <a href="https://github.com/aldairsoares">
