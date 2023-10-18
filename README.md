@@ -1,6 +1,6 @@
 ### Olá! Eu sou Aldair Soares!
 
-- 🔭 Desenvolvedor Java Jr.
+- 🔭 Desenvolvedor
 - 🌱 Estudando Java, Javascript, HTML, CSS, e alguns frameworks
 - 😄 Pronouns: ele/dele
 - Conheça o meu mais recente projeto: A MANGUETECH:  https://manguetech.netlify.app/
